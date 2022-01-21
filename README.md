@@ -14,19 +14,13 @@
 
   ```javascript
 const Marcelo = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Python"],
-    askMeAbout: ["web dev", "automation", "devops", "gaming"],
-    technologies: {
-        backEnd: {
-            js: ["Node", "Fastify", "Express", "SuiteScript"],
-        },
+    code: ["Python"],
+    askMeAbout: ["automation", "devops"],
+    technologies:
         devOps: ["AWS", "Docker🐳", "Nginx"],
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Python",
-    funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
